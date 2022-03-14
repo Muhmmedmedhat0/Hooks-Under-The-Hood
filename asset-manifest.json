@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Hooks-Under-The-Hood/static/css/main.073c9b0a.css",
+    "main.js": "/Hooks-Under-The-Hood/static/js/main.da1956c3.js",
+    "index.html": "/Hooks-Under-The-Hood/index.html",
+    "main.073c9b0a.css.map": "/Hooks-Under-The-Hood/static/css/main.073c9b0a.css.map",
+    "main.da1956c3.js.map": "/Hooks-Under-The-Hood/static/js/main.da1956c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.da1956c3.js"
+  ]
+}
